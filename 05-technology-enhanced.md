@@ -124,6 +124,6 @@ function requestRandomForUser(
 
 > **💡 開發者注意**: 所有智能合約代碼都將在 GitHub 上開源，歡迎社群貢獻和審計。我們相信透明度是建立信任的基礎。
 
-**技術文檔**: [GitHub Repository](https://github.com/zhouyongyou)
+**技術文檔**: [GitHub Repository](https://github.com/the-dev-z)
 **合約地址**: [BaseScan 驗證合約](https://basescan.org/)
 **審計報告**: V2.0.0.0 BASE 遷移完成
